@@ -14,3 +14,4 @@ console.log(num + newNum)   // result may surprise you.
 var num = 1;
  var newNum = num--;
  console.log(num + newNum);
+ 
