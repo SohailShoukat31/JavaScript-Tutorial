@@ -1,0 +1,32 @@
+There are Three Basic Loops 
+For Loops
+While Loops
+Do While Loops
+
+
+For loop: You know how many times you’ll do something.
+While loop: You don’t know how many times, but you stop when something is true.
+Do-while loop: You always do something at least once, then decide if you want to keep going
+---------------------------------------------------------------------------------------------------------------------
+Initialization: let cookie = 1:
+This part initializes a variable called cookie and sets its value to 1.
+This variable (cookie) is like a counter that will keep track of how many cookies have been baked so far.
+It only runs once at the start of the loop.
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+Condition: cookie <= 12:
+This is the condition that controls how long the loop will run.
+The loop will continue to run as long as this condition is true.
+In this case, it checks whether the cookie variable is less than or equal to 12. Once cookie becomes greater than 12, the loop will stop.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Update or Increment | Decrement : cookie++:
+This is the increment part. Every time the loop finishes one cycle (one cookie baked), it adds 1 to the value of cookie.
+cookie++ is shorthand for cookie = cookie + 1.
+
+
+-------------------------------------------------------------------------------------------------------------------------
