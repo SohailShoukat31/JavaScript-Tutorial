@@ -1,0 +1,19 @@
+div{
+    height: 400px;
+    width: 50%;
+    background-color: rgb(224, 145, 42);
+}
+h1{
+    text-align: center;
+    color: red;
+}
+h3{
+    color: green;
+}
+body{
+    text-align: center;
+}
+button{
+    background-color: rgb(124, 124, 248);
+    padding: 14px 23px;
+}
