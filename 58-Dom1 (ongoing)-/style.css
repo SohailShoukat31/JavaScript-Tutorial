@@ -1,0 +1,15 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+div {
+  border: 3px solid green;
+  width: 30%;
+  height: 250px;
+}
+#main-heading {
+  background-color: yellow;
+  color: black;
+}
